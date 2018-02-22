@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Practice Questions
 
-You can use the [editor on GitHub](https://github.com/uyathiraj/Practice-Questions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Solution implementation for the set of questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Question 1
 
-### Markdown
+List the Java script or style sheet files used in html file.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**File name** : FindJS.java
 
-```markdown
-Syntax highlighted code block
+**Input** : HTML file location.
 
-# Header 1
-## Header 2
-### Header 3
+**Output** : List of JS or CSS files used
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Question 2
 
-**Bold** and _Italic_ and `Code` text
+Reverse a string maintaining spaces.
 
-[Link](url) and ![Image](src)
-```
+**File name** : ReverseSentence.java
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Input** : A normal english sentence 
 
-### Jekyll Themes
+**Output** : Reversed string with the space maintained.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uyathiraj/Practice-Questions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Sample Input**     : Life is   beautiful and  bright
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Expected out put** : bright and   beautiful is  Life
