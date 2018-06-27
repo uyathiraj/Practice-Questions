@@ -26,3 +26,13 @@ Reverse a string maintaining spaces.
 **Sample Input**     : Life is   beautiful and  bright
 
 **Expected out put** : bright and   beautiful is  Life
+
+### Question 3
+
+Given a set represented as string, write a recursive code to print all subsets of it. The subsets can be printed in any order.
+
+**File name** : PoweSet.java
+
+**Input** : set = "abc"
+
+**Output** :  "". "a", "b", "c", "ab", "ac", "bc", "abc"
