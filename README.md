@@ -31,7 +31,7 @@ Reverse a string maintaining spaces.
 
 Given a set represented as string, write a recursive code to print all subsets of it. The subsets can be printed in any order.
 
-**File name** : PoweSet.java
+**File name** : PowerSet.java
 
 **Input** : set = "abc"
 
